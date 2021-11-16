@@ -10,8 +10,7 @@
     "state": "CA",
     "age": "24",
     "postalCode": "394221",
-    "phoneNumber": "7383627627",
-    "photo": "https://uifaces.co/our-content/donated/vm2OT_gQ.jpg"
+    "phoneNumber": "7383627627"
   },
   {
     "id": "2",
@@ -24,8 +23,7 @@
     "state": "WA",
     "age": "34",
     "postalCode": "09889",
-    "phoneNumber": "1283645645",
-    "photo": "https://uifaces.co/our-content/donated/W9V6aXAc.jpg"
+    "phoneNumber": "1283645645"
   },
   {
     "id": "3",
@@ -38,8 +36,7 @@
     "state": "CA",
     "age": "29",
     "postalCode": "098765",
-    "phoneNumber": "9983632461",
-    "photo": "https://images.generated.photos/WyHCLzCAdwxjNfcUm6bBe4ENsZrTcII0NZJyy1yigEU/rs:fit:512:512/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/MjIzMjAwLmpwZw.jpg"
+    "phoneNumber": "9983632461"
   },
   {
     "id": 4,
@@ -52,8 +49,7 @@
     "city": "Salt lake city",
     "state": "UT",
     "postalCode": "457320",
-    "phoneNumber": "90876987654",
-    "photo": "https://uifaces.co/our-content/donated/2Stzj6r-.jpg"
+    "phoneNumber": "90876987654"
   },
   {
     "id": 5,
@@ -66,8 +62,7 @@
     "city": "Louisville",
     "state": "KNT",
     "postalCode": "445321",
-    "phoneNumber": "224355488976",
-    "photo": "https://randomuser.me/api/portraits/women/79.jpg"
+    "phoneNumber": "224355488976"
   },
   {
     "id": 6,
@@ -80,8 +75,7 @@
     "city": "Atlanta",
     "state": "GEO",
     "postalCode": "394221",
-    "phoneNumber": "6854634522",
-    "photo": "https://i.imgur.com/ZI45jIW.jpg"
+    "phoneNumber": "6854634522"
   },
   {
     "id": 7,
@@ -94,8 +88,7 @@
     "city": "Nashville",
     "state": "TN",
     "postalCode": "90143",
-    "phoneNumber": "45372788192",
-    "photo": "https://images.unsplash.com/photo-1542973748-658653fb3d12?ixlib=rb-1.2.1&q=80&fm=jpg&crop=faces&fit=crop&h=200&w=200&ixid=eyJhcHBfaWQiOjE3Nzg0fQ"
+    "phoneNumber": "45372788192"
   },
   {
     "id": 8,
@@ -108,21 +101,6 @@
     "city": "New Orleans",
     "state": "LU",
     "postalCode": "63281",
-    "phoneNumber": "91232876454",
-    "photo": "https://randomuser.me/api/portraits/men/2.jpg"
-  },
-  {
-    "id": 9,
-    "name": "Leila",
-    "lastName": "Mills",
-    "email": "mills@leila.com",
-    "gender": "woman",
-    "city": "San Diego",
-    "streetAddress": "55",
-    "state": "CA",
-    "age": "29",
-    "postalCode": "098765",
-    "phoneNumber": "098765",
-    "photo": "https://images.generated.photos/WyHCLzCAdwxjNfcUm6bBe4ENsZrTcII0NZJyy1yigEU/rs:fit:512:512/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/MjIzMjAwLmpwZw.jpg"
+    "phoneNumber": "91232876454"
   }
 ]
